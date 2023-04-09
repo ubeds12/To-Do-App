@@ -1,0 +1,40 @@
+.container {
+    width: 50%;
+    margin: auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+   button {
+    padding: 10px;
+    font-size: 18px;
+    border: 8px solid;
+    border-radius: 5px;
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
